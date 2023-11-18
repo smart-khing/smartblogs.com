@@ -1,0 +1,47 @@
+body{
+    background-image: url(429853477.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.signupbox{
+    background: rgba(44, 62, 80, 0.7);
+    padding: 40px;
+    width: 230px;
+    margin-top: 90px;
+    margin-left: 180px;
+    margin:0 auto;
+}
+form{
+    width: 240px;
+    text-align: center;
+    margin-top: -10;
+}
+input{
+    text-align: center;
+    background: transparent;
+    width: 200px;
+    border: none;
+    border-bottom: 2px solid;
+    border-color: white;
+    font-size: 18px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+    height: 35px;
+}
+p{
+    color: white;
+}
+h2{
+    color: gold;
+}
+a{
+    color: yellow;
+}
+button{
+    width: 150px;
+    height: 35px;
+    border-radius: 15px;
+    
+}

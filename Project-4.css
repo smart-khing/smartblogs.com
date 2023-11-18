@@ -1,0 +1,38 @@
+body{
+    background-image: url(Image1.webp);
+    background-size: cover;
+    padding: 20px;font-family: sans-serif;
+}
+.est{
+    font-style: italic;
+}
+hr{
+    background-color: brown;
+    border-color: brown;
+    height: 2px;
+}
+.firstdiv{ 
+background-color: burlywood;
+width: 80%;
+padding: 20px;
+margin-left: auto; 
+ margin-right: auto; 
+ max-width: 500px;
+ text-align: center;
+}
+h2,h3{
+    font-family: Impact,serif;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+.item p{
+    display: inline-block;
+}
+.flavors{text-align: left; width: 75%;}
+.prices{
+    text-align: right; width: 25%;
+}
